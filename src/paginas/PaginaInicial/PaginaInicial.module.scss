@@ -1,0 +1,20 @@
+@import "../../styles/variaveis";
+
+main {
+    margin: 0 24px;
+    font-family: $fonte-normal;
+}
+  
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    margin-left: 17%;
+    margin-top: 1rem;
+}
