@@ -1,4 +1,4 @@
-<h1> Venda de Frutas - React Context </h1>
+<h1> Alura Space </h1>
 
 ![Static Badge](https://img.shields.io/badge/Status-_Finalizado-green?style=for-the-badge)
 
